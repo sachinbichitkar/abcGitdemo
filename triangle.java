@@ -25,3 +25,7 @@ class triangle{
 		
 	}
 }
+
+---
+git diff command
+---
